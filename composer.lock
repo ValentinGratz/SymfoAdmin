@@ -31,7 +31,7 @@
                 "composer/composer": "^1.9.3 || ^2.0@dev",
                 "ext-zip": "^1.13",
                 "phpunit/phpunit": "^6.5 || ^7"
-            },
+            }, 
             "type": "composer-plugin",
             "extra": {
                 "class": "PackageVersions\\Installer",
